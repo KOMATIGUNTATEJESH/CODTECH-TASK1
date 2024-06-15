@@ -54,4 +54,5 @@ User Interface (optional):
 Depending on your requirements, you may choose to create a graphical user interface (GUI) for the calculator using libraries like Tkinter or PyQt. This can enhance user experience and make the calculator more user-friendly.
 
 OUTPUT:
-[Online Python - IDE, Editor, Compiler, Interpreter - Google Chrome 14-06-2024 19_07_53](https://github.com/KOMATIGUNTATEJESH/CODTECH-TASK1/assets/171588097/aa55d55e-221b-43fd-9374-a2c78672bc84)
+
+![IMG-20240614-WA0003](https://github.com/KOMATIGUNTATEJESH/CODTECH-TASK1/assets/171588097/f98ab1ee-604c-40e7-8390-b784de074bc1)
